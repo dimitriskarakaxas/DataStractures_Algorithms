@@ -12,7 +12,7 @@ function isPowerofTwo(number) {
 // Worst Case: 1,125,899,906,842,624 => O(log n)
 
 function isPowerOfTwoBinary(number) {
-  if (number < 1 || number % 2 !== 0) return false;
+  if (number < 1 || number % 1 !== 0) return false;
   return (number & (number - 1)) === 0;
 }
 // Time Complexity => O(1)

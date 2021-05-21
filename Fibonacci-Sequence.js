@@ -7,3 +7,4 @@ function fib(num) {
 
   return numbers;
 }
+// Time Complexity => O(n)

@@ -5,4 +5,5 @@ function factorial(number) {
   }
   return result;
 }
+
 // Time Complexity => O(n)

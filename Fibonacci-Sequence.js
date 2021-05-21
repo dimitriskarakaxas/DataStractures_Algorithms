@@ -7,5 +7,3 @@ function fib(num) {
 
   return numbers;
 }
-
-console.log(fib(5));
